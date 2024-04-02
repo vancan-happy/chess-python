@@ -1,2 +1,0 @@
-sastr = 'dddd'
-int(sastr)
