@@ -1,0 +1,2 @@
+sastr = 'dddd'
+int(sastr)
